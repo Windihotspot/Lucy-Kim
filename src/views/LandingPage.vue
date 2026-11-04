@@ -371,7 +371,7 @@ const featuredArticle = {
     'Sometimes, the bravest thing you can do is admit that you need a little help. A gentle reminder that you do not have to reach breaking point before seeking support.',
   readTime: '4 min read',
   author: 'Lucy Kim',
-  url: 'https://medium.com/@barbaramillersunshine/you-dont-have-to-have-everything-figured-out-to-start-therapy-26a3e1df64eb?sharedUserId=barbaramillersunshine'
+  url: 'https://medium.com/@lucy-kim/you-dont-have-to-have-everything-figured-out-to-start-therapy-cdb8bd6bc919?sharedUserId=lucy-kim'
 }
 </script>
 

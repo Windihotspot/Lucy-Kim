@@ -7,7 +7,7 @@ import profilePic from '@/assets/lucy.jpeg' // add Lucy's photo here
 import logo from '@/assets/lucy-logo.png' // optional logo; remove the <img> tags if unused
 
 /* ---------------- CONFIG ---------------- */
-const whatsappNumber = '2340000000000' // replace with Lucy's number
+const whatsappNumber = '+16399521550' // replace with Lucy's number
 const openWhatsApp = (message = '') =>
   window.open(
     `https://wa.me/${whatsappNumber}${message ? `?text=${encodeURIComponent(message)}` : ''}`,
